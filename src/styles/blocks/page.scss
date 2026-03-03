@@ -8,6 +8,10 @@
   &__body {
     margin: 0;
     min-width: 320px; // NEW
+
+    &:has(.menu:target) {
+      overflow: hidden;
+    }
   }
 
   &__menu {
