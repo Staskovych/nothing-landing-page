@@ -1,21 +1,34 @@
-Nothing Landing Page
-This is the final version of the landing page project, built with a focus on modern web development standards, clean code, and optimized asset management.
+# Nothing Landing Page
+A modern, high-performance, and fully responsive landing page built with a professional frontend workflow.
 
-🚀 Demo
+## 🚀 Live Demo
 You can view the live project here:
 - [DEMO LINK](https://Staskovych.github.io/nothing-landing-page/)
 
-🛠 Tech Stack
-The project was developed using the following technologies and tools:
+## 🛠 Tech Stack
+* **HTML5** – Semantic and SEO-friendly markup.
+* **SCSS** – Advanced styling with variables, mixins, and nesting.
+* **BEM Methodology** – Clean and maintainable class naming convention.
+* **Parcel** – Modern build tools for automated bundling and development.
 
-HTML5 & SCSS: For structured, semantic, and maintainable styling.
+## ✨ Key Features
+* **Fully Responsive:** Perfect look on desktops, tablets, and mobile devices.
+* **Cross-Browser Support:** Consistent behavior across all modern browsers.
+* **Clean Code:** Written following best practices and BEM standards.
 
-JavaScript (ES6+): To implement interactive elements and logic.
+## 📦 Quick Start
 
-Gulp: Used as a task runner for automating the development workflow.
+```bash
+# Clone the repository
+git clone [https://github.com/Staskovych/nothing-landing-page.git](https://github.com/Staskovych/nothing-landing-page.git)
 
-Parcel: Utilized for fast, zero-config bundling and asset management.
+# Go to project directory
+cd nothing-landing-page
 
-Stylelint & ESLint: To ensure code quality and adherence to BEM methodology.
+# Install dependencies
+npm install
 
-Git: For version control and collaborative development.
+# Start development server
+npm start
+
+
