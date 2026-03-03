@@ -20,7 +20,7 @@ You can view the live project here:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Staskovych/nothing-landing-page.git](https://github.com/Staskovych/nothing-landing-page.git)
+git clone https://github.com/Staskovych/nothing-landing-page.git
 
 # Go to project directory
 cd nothing-landing-page
